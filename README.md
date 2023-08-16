@@ -24,13 +24,5 @@ functionality :
 - Linux OS ( Raspbian OS )Geany IDE ( Raspberry pi )
 - Only Office for documentation ( Ubuntu Linux workstation )
 
-# Hardware
-
-## Raspberry pi :
-![](images/rpi-board.png)
-The Raspberry Pi is a low cost,computer monitor or TV, and uses a standard keyboard and mouse. It is a **credit-card sized computer** that plugs into a
-capable little device that enables people of all ages to explore computing, andto learn how to program in languages like Scratch and Python. It’s capable of
-doing everything you’d expect a desktop computer to doRaspberry Pi has the ability to interact with the outside world, and has been. What’s more, the
-used in a wide array of digital maker projects, from music machines and parentdetectors to weather stations etc.
-
-![](images/rpi_robot.pdf)
+### Note :
+#### For more information I have included the documentation related to this project feel free to check that out. The documentation of this project is named ```rpi_robot.pdf```
