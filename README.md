@@ -31,4 +31,6 @@ functionality :
 The Raspberry Pi is a low cost,computer monitor or TV, and uses a standard keyboard and mouse. It is a **credit-card sized computer** that plugs into a
 capable little device that enables people of all ages to explore computing, andto learn how to program in languages like Scratch and Python. It’s capable of
 doing everything you’d expect a desktop computer to doRaspberry Pi has the ability to interact with the outside world, and has been. What’s more, the
-used in a wide array of digital maker projects, from music machines and parentdetectors to weather stationsetc.
+used in a wide array of digital maker projects, from music machines and parentdetectors to weather stations etc.
+
+![](images/rpi_robot.pdf)
