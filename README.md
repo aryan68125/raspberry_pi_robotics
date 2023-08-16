@@ -29,6 +29,9 @@ functionality :
 
 ## Here is a demo video of the raspberry pi robot
 https://github.com/aryan68125/raspberry_pi_robotics/assets/32859662/f359e8f8-58ff-4817-b0d2-8651eb24b4cd
+https://github.com/aryan68125/raspberry_pi_robotics/assets/32859662/79353da6-f203-4869-ad57-5db01a97066e
 
 ## This how the desktop application looks like that controls the robot
 ![](images/output.png)
+
+
