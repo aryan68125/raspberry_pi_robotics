@@ -26,3 +26,7 @@ functionality :
 
 ### Note :
 #### For more information I have included the documentation related to this project feel free to check that out. The documentation of this project is named ```rpi_robot.pdf```
+
+## Here is a demo video of the raspberry pi robot
+https://github.com/aryan68125/raspberry_pi_robotics/assets/32859662/f359e8f8-58ff-4817-b0d2-8651eb24b4cd
+
